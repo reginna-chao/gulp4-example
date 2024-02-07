@@ -2,15 +2,15 @@
   "name": "gulp4-example",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
+  "description": "Simple Gulp4 example project.",
   "main": "index.js",
   "scripts": {
-    "start": "gulp",
+    "dev": "gulp",
     "build": "gulp build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["gulp", "gulp4"],
+  "author": "Reginna Chao",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.23.9",
     "@babel/preset-env": "^7.23.9",
